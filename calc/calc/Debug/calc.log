@@ -1,0 +1,17 @@
+﻿生成启动时间为 2020/7/24 18:32:58。
+     1>项目“D:\vs_test\calc\calc\calc.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2015\vs2015\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5.2\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib calcwin.cpp main.cpp
+         calcwin.cpp
+         main.cpp
+         正在生成代码...
+       Link:
+         D:\vs2015\vs2015\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\vs_test\calc\Debug\calc.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\calc.calcwin.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\vs_test\calc\Debug\calc.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\calcwin.obj
+         Debug\main.obj
+         "Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.obj"
+         calc.vcxproj -> D:\vs_test\calc\Debug\calc.exe
+     1>已完成生成项目“D:\vs_test\calc\calc\calc.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.21
